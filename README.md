@@ -1,0 +1,1 @@
+# sberuniversity-gradle-basic
